@@ -1,0 +1,42 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.api.whatsapp.com	TRUE	/send	FALSE	1999999999	wa_ul	a1f51108-5884-44ac-bb38-5c4f01164281
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	en
+w3.org	TRUE	/	FALSE	1999999999	__cf_bm	J8leVz61SCgxgTb8mBxuMzJxvcMADzK2D5XmzCeBr9o-1775501605.3681548-1.0.1.1-ORLeSpqH2w5wifbl7fNKOnhECJ5RVyS.6SEHPbs_nLRqQ4.INZPNNySnkQvcglTz.XYufZdr2ERocsPqHgVRrSrZ7F2OEogVV2.8zOytwhujw7tIB.bdPh0xzjTjti2s
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_csrf	niK3bmcxieXTG6k4zs69K3
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	HrpPlmTR7U0
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	-QxEnTqxtwY
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJCUhIEGgAgZA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	CJX-j6HLpb2d2wEQub22qvPZkwMYub22qvPZkwM%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	t5ui5DNHZrL8SEE7x7dvQ2
+.www.meta.com	TRUE	/	FALSE	1999999999	csrf	_kay8Ecnk-JRuHGlTA0zCL
+.web.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	e87c2773-5bd1-4714-9d09-1b30e61c572e
+www.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.www.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	9b12f4a8-ea34-40a0-a6c8-723f3ac27853
+www.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+kiwify.com	TRUE	/	FALSE	1999999999	__cf_bm	CuhUdV4DhJaq5pdAeEH57SJH4j0kmULDPuajgw1X8ek-1775501834.7774045-1.0.1.1-GtwnFRx70M8ycMaGZtlM.MaZXiR.aV5D7XdmrfqPPjJKJcO6UTBkQCC058zc77kbCoOnqxPL1JJHOCTM49ydJgNBLb8O9LzG7Xquwur28qVmahYx042QOr3ZHES4HcRJ
+.google.com	TRUE	/	FALSE	1999999999	NID	530=RgTQN5fFXbQQ--DWl87xlRzowyUeNthSvsm4l506azUCaS8RK2-IIE2JphJPv71WopS_5sYSadgCDbllLOdGtTgzJ01ZMkJGTaLZbXKqsIs9ct-mSSuX8LzI3P8IbDK11Fhx8qySAFjvo6EFS3OL0uZiUCxMXvqGWLkeU0ocFQh6BRITyAFJtlswnOHjCNNRBuX8MAIXBgXn37GD
+kiwify.com.br	TRUE	/	FALSE	1999999999	__cf_bm	F9tLD_C7XkI176daiu6zHPCfYOIoak0uUQ2fbqUkZz0-1775501841.3588839-1.0.1.1-l6eOVGhw08Hixp3CBc6frtHL5MKdC_aq.gzjRba0Ua6Jr.ayVWly7cOY_umI19rVPlZ9FOVthe8vWAgAU_JqNj2qXejIsIl.rCVjso6I_q9JpSmIXE2u5g6FM.pr8si4
+api.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+api.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+www.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+faq.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.faq.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	fe416f25-4645-44b5-842b-9b77591a6698
+faq.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+blog.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.blog.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	96e02a7c-f3cc-4ddf-a91d-b510496f0524
+blog.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.x.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A177550189978067970
+.x.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A177550189978067970
+.x.com	TRUE	/	FALSE	1999999999	personalization_id	v1_xSSVDyus/LMO0LcZdE3CUw=="
+.x.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A177550189978067970
+x.com	TRUE	/	FALSE	1999999999	SameSite	None
+x.com	TRUE	/	FALSE	1999999999	__cf_bm	4UKOOb.8ndqy0mShMk0avfrs5z1PTNPtE3b5OO3VnJQ-1775501899.726057-1.0.1.1-2c0YJlWn48oKVwrh9rkqz2d9OwllQhw.yLO9UBjSmEkjNdfwiEStSN5D01NZYaQiOVmMv1RDMSU8mT0M9gq53hnxF6fblHlWwMfp0zaeYweDHCaOAZrP2fI2.yjH2SCk
+whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+web.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.www.meta.com	TRUE	/	FALSE	1999999999	locale	en_US
+

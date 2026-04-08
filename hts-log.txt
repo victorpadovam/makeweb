@@ -1,0 +1,141 @@
+HTTrack3.49-2 launched on Mon, 06 Apr 2026 15:52:21 at https://escoladamaquiagem.com/maquiagem-2026 +*.escoladamaquiagem.com/* +*.hotmart.com/* *.*
+(httrack https://escoladamaquiagem.com/maquiagem-2026 -O ./clone-maquiagem +*.escoladamaquiagem.com/* +*.hotmart.com/* *.* -w -r3 -%k -%! -F Mozilla/5.0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:21	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+15:52:56	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): launcher.hotmart.com/launcher.js
+15:52:58	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=371447002120858&ev=PageView&noscript=1
+15:53:44	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link *.*/robots.txt (from primary/primary)
+15:53:44	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link *.*/ (from primary/primary)
+15:53:44	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/t.src (from https://escoladamaquiagem.com/maquiagem-2026)
+15:54:14	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://escoladamaquiagem.com/maquiagem-2026)
+15:54:43	Warning: 	Moved Permanently for https://escoladamaquiagem.com/?p=1082
+15:54:43	Warning: 	File has moved from https://escoladamaquiagem.com/?p=1082 to https://escoladamaquiagem.com/maquiagem-2026/
+15:57:37	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.facebook.com/tr?id=2003781543412555&ev=PageView&noscript=1
+15:58:11	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link *.*/ (from primary/primary)
+15:58:11	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/*coloque aqui o link da imagem de background*/ (from https://escoladamaquiagem.com/wp-content/uploads/elementor/css/post-1082.css?ver=1775489137)
+15:58:11	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/maquiagem-2026/t.src (from https://escoladamaquiagem.com/maquiagem-2026/)
+15:58:11	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/signals/config/ (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:11	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/t (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:11	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/signals/plugins/ (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:12	Warning: 	Moved Permanently for schema.org/robots.txt
+15:58:12	Warning: 	Redirected link is identical because of 'URL Hack' option: schema.org/robots.txt and https://schema.org/robots.txt
+15:58:12	Warning: 	Warning moved treated for schema.org/robots.txt (real one is https://schema.org/robots.txt)
+15:58:12	Warning: 	Moved Permanently for schema.org/
+15:58:12	Warning: 	Redirected link is identical because of 'URL Hack' option: schema.org/ and https://schema.org/
+15:58:12	Warning: 	File has moved from schema.org/ to https://schema.org/
+15:58:12	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:13	Warning: 	Found for https://wa.me/
+15:58:13	Warning: 	File has moved from https://wa.me/ to https://api.whatsapp.com/
+15:58:13	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/t.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://schema.org/product (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://schema.org/offer (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://schema.org/aggregateoffer (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://schema.org/aggregaterating (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/n.dl (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/n.rl (from https://connect.facebook.net/en_US/fbevents.js)
+15:58:14	Error: 	"Not Found" (404) at link https://api.whatsapp.com/data/manifest.json (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:17	Warning: 	Found for https://faq.whatsapp.com/robots.txt
+15:58:17	Warning: 	File has moved from https://faq.whatsapp.com/robots.txt to https://faq.whatsapp.com/error/?locale=en_US
+15:58:18	Warning: 	Found for https://blog.whatsapp.com/robots.txt
+15:58:18	Warning: 	File has moved from https://blog.whatsapp.com/robots.txt to https://blog.whatsapp.com/
+15:58:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://x.com/whatsapp (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.facebook.com/WhatsApp/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=az (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=af (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=id (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ms (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ca (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=cs (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=da (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=de (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=et (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=es (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=fr (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ga (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=hr (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=it (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sw (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=lv (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=lt (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=hu (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=nl (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=nb (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=uz (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=tl (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=pl (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=pt (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=pt-pt (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ro (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sq (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sk (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sl (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=fi (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sv (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=vi (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=tr (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=el (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=bg (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=kk (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=mk (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ru (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=sr (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=uk (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=he (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ar (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=fa (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ur (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=bn (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=hi (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=gu (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=kn (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=mr (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=pa (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ta (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=te (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ml (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=th (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=zh (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=zh-tw (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=zh-hk (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ja (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:22	Error: 	"Not Found" (404) at link https://api.whatsapp.com/send--sanitized-S228802--?lang=ko (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://web.whatsapp.com/send/?phone=5567998792312&text=Oii%2C+quero+come%C3%A7ar+agora+o+Melhor+Curso+de+Maquiagem+do+Brasil%21 (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:25	Error: 	"Not Found" (404) at link https://api.whatsapp.com/H8sk9y (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:25	Error: 	"Not Found" (404) at link https://api.whatsapp.com/sIXck9 (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:25	Error: 	"Not Found" (404) at link https://api.whatsapp.com/LYq (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:25	Error: 	"Not Found" (404) at link https://api.whatsapp.com/SxPyyJ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:25	Error: 	"Not Found" (404) at link https://api.whatsapp.com/H8sk9y/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:26	Error: 	"Not Found" (404) at link https://integration-facebook.payu.in/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:28	Error: 	"Not Found" (404) at link https://facebook.payulatam.com/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:29	Warning: 	Moved Temporarily for https://secure.payu.com/
+15:58:29	Warning: 	File has moved from https://secure.payu.com/ to /pl/standard/user/login
+15:58:30	Error: 	"Not Found" (404) at link https://facebook.dlocal.com/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:58:50	Warning: 	Moved Permanently for https://www.kiwify.com/robots.txt
+15:58:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.kiwify.com/robots.txt and https://kiwify.com/robots.txt
+15:58:50	Warning: 	Warning moved treated for https://www.kiwify.com/robots.txt (real one is https://kiwify.com/robots.txt)
+15:58:50	Warning: 	Moved Permanently for https://www.kiwify.com/
+15:58:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.kiwify.com/ and https://kiwify.com/
+15:58:50	Warning: 	File has moved from https://www.kiwify.com/ to https://kiwify.com/
+15:59:13	Warning: 	Moved Permanently for https://www.w3.org/Graphics/SVG/
+15:59:13	Warning: 	File has moved from https://www.w3.org/Graphics/SVG/ to https://www.w3.org/groups/wg/svg/
+15:59:16	Error: 	"Not Found" (404) at link https://www.youtube-nocookie.com/ (from https://escoladamaquiagem.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+15:59:16	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/-negative.svg (from https://escoladamaquiagem.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+15:59:16	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/OPR/ (from https://escoladamaquiagem.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+15:59:16	Error: 	"Not Found" (404) at link https://escoladamaquiagem.com/document.location (from https://escoladamaquiagem.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.9.0)
+15:59:16	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link *.*/ (from primary/primary)
+15:59:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://x.com/whatsapp (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:59:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.facebook.com/WhatsApp/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:59:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://web.whatsapp.com/send/?phone=5567998792312&text=Oii%2C+quero+come%C3%A7ar+agora+o+Melhor+Curso+de+Maquiagem+do+Brasil%21 (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:59:17	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://x.com/whatsapp (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:59:17	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.facebook.com/WhatsApp/ (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+15:59:17	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://web.whatsapp.com/send/?phone=5567998792312&text=Oii%2C+quero+come%C3%A7ar+agora+o+Melhor+Curso+de+Maquiagem+do+Brasil%21 (from https://api.whatsapp.com/send?phone=5567998792312&text=Oii,%20quero%20come%C3%A7ar%20agora%20o%20Melhor%20Curso%20de%20Maquiagem%20do%20Brasil!)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 56 seconds : 391 links scanned, 251 files written (28402301 bytes overall) [15704880 bytes received at 37752 bytes/sec], 40062763 bytes transferred using HTTP compression in 261 files, ratio 25%, 2.3 requests per connection
+(94 errors, 36 warnings, 0 messages)
